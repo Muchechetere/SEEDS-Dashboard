@@ -1,0 +1,185 @@
+Topic,Words,Frequency,Timestamp,Name,topic_label
+0,"test, tool, ll, file, environment",1,2016-11-07 19:16:19.200,Environmental Management,Environmental Management
+17,"talked, people, man, woman, tech",2,2016-11-07 19:16:19.200,Tech for Good,Tech for Good
+0,"next, env, js, staging, production",1,2017-09-26 16:48:00.000,Environmental Management,Environmental Management
+2,"ve, os, source, opencollective, patreon",1,2017-09-26 16:48:00.000,Open Source Funding,Open Source Funding
+5,"programming, dynamicland, work, way, computer",1,2017-09-26 16:48:00.000,Workplace dynamics,Workplace dynamics
+0,"file, folder, public, env, typo3",1,2018-03-05 13:12:00.000,Environmental Management,Environmental Management
+5,"sorting, array, sort, element, mac",1,2018-03-05 13:12:00.000,Workplace dynamics,Workplace dynamics
+0,"file, environment, docker, json, run",3,2018-08-12 09:36:00.000,Environmental Management,Environmental Management
+2,"beta, membership, feature, extra, to",1,2018-08-12 09:36:00.000,Open Source Funding,Open Source Funding
+5,"job, duc, hateful, disrespectful, poisonous",1,2018-08-12 09:36:00.000,Workplace dynamics,Workplace dynamics
+-1,"esp32, sensor, arduino, sds, 011",1,2019-01-19 06:00:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"file, environment, line, git, variable",3,2019-01-19 06:00:00.000,Environmental Management,Environmental Management
+2,"open, source, project, funding, audience",1,2019-01-19 06:00:00.000,Open Source Funding,Open Source Funding
+3,"dc, power, ac, gadget, center",1,2019-01-19 06:00:00.000,Renewable Energy Market,Renewable Energy Market
+5,"team, thing, culture, work, something",2,2019-01-19 06:00:00.000,Workplace dynamics,Workplace dynamics
+9,"battery, esp32, pin, voltage, monitoring",1,2019-01-19 06:00:00.000,Energy Efficiency and Monitoring,Energy Efficiency and Monitoring
+-1,"housing, unit, completion, permit, austin",2,2019-06-28 02:24:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"wsl, environment, variable, window, linux",3,2019-06-28 02:24:00.000,Environmental Management,Environmental Management
+1,"tech, worker, climate, company, carbon",2,2019-06-28 02:24:00.000,Software Sustainability,Software Sustainability
+2,"license, open, patron, source, prosperity",1,2019-06-28 02:24:00.000,Open Source Funding,Open Source Funding
+5,"lisp, odin, program, common, code",2,2019-06-28 02:24:00.000,Workplace dynamics,Workplace dynamics
+7,"ai, model, card, kg, author",1,2019-06-28 02:24:00.000,AI Energy Consumption,AI Energy Consumption
+12,"environment, django, variable, virtual, python",1,2019-06-28 02:24:00.000,Python Virtual Environments,Python Virtual Environments
+17,"organisation, good, tech, volunteer, event",1,2019-06-28 02:24:00.000,Tech for Good,Tech for Good
+-1,"davos, technology, create, reflects, globe",1,2019-12-04 22:48:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"window, file, environment, nginx, wsl",4,2019-12-04 22:48:00.000,Environmental Management,Environmental Management
+1,"justify, align, sustainability, lip, ua",2,2019-12-04 22:48:00.000,Software Sustainability,Software Sustainability
+7,"blauer, engel, operating, system, seal",1,2019-12-04 22:48:00.000,AI Energy Consumption,AI Energy Consumption
+12,"python, install, directory, package, environment",2,2019-12-04 22:48:00.000,Python Virtual Environments,Python Virtual Environments
+0,"environment, variable, window, vercel, version",8,2020-05-12 19:12:00.000,Environmental Management,Environmental Management
+3,"bug, apps, evil, avoided, lock",1,2020-05-12 19:12:00.000,Renewable Energy Market,Renewable Energy Market
+4,"sustainable, web, website, digital, dev",2,2020-05-12 19:12:00.000,Sustainable Web Design,Sustainable Web Design
+5,"rust, thing, plan, decided, go",2,2020-05-12 19:12:00.000,Workplace dynamics,Workplace dynamics
+7,"twilio, number, task, function, chatbot",1,2020-05-12 19:12:00.000,AI Energy Consumption,AI Energy Consumption
+12,"python, environment, virtual, create, venv",2,2020-05-12 19:12:00.000,Python Virtual Environments,Python Virtual Environments
+17,"hate, community, osca, people, idea",3,2020-05-12 19:12:00.000,Tech for Good,Tech for Good
+0,"environment, variable, file, container, env",7,2020-10-19 15:36:00.000,Environmental Management,Environmental Management
+1,"engineering, software, laptop, carbon, sustainability",4,2020-10-19 15:36:00.000,Software Sustainability,Software Sustainability
+2,"maintainer, open, source, os, tech",2,2020-10-19 15:36:00.000,Open Source Funding,Open Source Funding
+4,"image, site, website, video, web",1,2020-10-19 15:36:00.000,Sustainable Web Design,Sustainable Web Design
+5,"earwig, tradespeople, gig, career, london",1,2020-10-19 15:36:00.000,Workplace dynamics,Workplace dynamics
+12,"parameter, file, python, project, environment",1,2020-10-19 15:36:00.000,Python Virtual Environments,Python Virtual Environments
+13,"bitcoin, coinmonks, bitcoins, cases, 38",1,2020-10-19 15:36:00.000,Blockchain for Sustainability,Blockchain for Sustainability
+17,"hate, hack, crime, ticket, magician",1,2020-10-19 15:36:00.000,Tech for Good,Tech for Good
+-1,"header, column, sortable, object, property",1,2021-03-28 12:00:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"file, variable, environment, deploys, deploy",8,2021-03-28 12:00:00.000,Environmental Management,Environmental Management
+1,"visual, software, guide, minecraft, digital",2,2021-03-28 12:00:00.000,Software Sustainability,Software Sustainability
+5,"time, team, feeling, thing, something",3,2021-03-28 12:00:00.000,Workplace dynamics,Workplace dynamics
+7,"python, flask, variable, literal, function",1,2021-03-28 12:00:00.000,AI Energy Consumption,AI Energy Consumption
+11,"carbon, business, scope, change, fuel",1,2021-03-28 12:00:00.000,Sustainable Business Strategies for a Changing Climate,Sustainable Business Strategies for a Changing Climate
+15,"date, laravel, calendar, fullcalendar, timezone",1,2021-03-28 12:00:00.000,Date manipulation in Laravel using Carbon,Date manipulation in Laravel using Carbon
+20,"earthquake, sensor, alt, openeew, text",1,2021-03-28 12:00:00.000,Early Earthquake Warning Systems,Early Earthquake Warning Systems
+0,"variable, environment, file, command, env",5,2021-09-04 08:24:00.000,Environmental Management,Environmental Management
+1,"software, green, metric, carbon, impact",9,2021-09-04 08:24:00.000,Software Sustainability,Software Sustainability
+2,"tauri, community, open, source, project",1,2021-09-04 08:24:00.000,Open Source Funding,Open Source Funding
+3,"battery, storage, energy, bess, system",1,2021-09-04 08:24:00.000,Renewable Energy Market,Renewable Energy Market
+4,"api, outputted, wrapperthis, carbonara, carbonshthis",1,2021-09-04 08:24:00.000,Sustainable Web Design,Sustainable Web Design
+5,"environment, kid, influence, pusher, greatness",1,2021-09-04 08:24:00.000,Workplace dynamics,Workplace dynamics
+6,"cloud, sustainability, carbon, aws, data",2,2021-09-04 08:24:00.000,Green Cloud Computing,Green Cloud Computing
+12,"django, environ, environment, python, 00",1,2021-09-04 08:24:00.000,Python Virtual Environments,Python Virtual Environments
+13,"worth, bitcoin, crypto, blockchain, btc",1,2021-09-04 08:24:00.000,Blockchain for Sustainability,Blockchain for Sustainability
+0,"variable, show, bar, environment, folder",4,2022-02-11 04:48:00.000,Environmental Management,Environmental Management
+1,"green, software, think, carbon, digital",2,2022-02-11 04:48:00.000,Software Sustainability,Software Sustainability
+4,"video, web, website, network, user",2,2022-02-11 04:48:00.000,Sustainable Web Design,Sustainable Web Design
+5,"toxic, work, description, 42, behaviour",1,2022-02-11 04:48:00.000,Workplace dynamics,Workplace dynamics
+6,"aws, cloud, serverless, footprint, carbon",3,2022-02-11 04:48:00.000,Green Cloud Computing,Green Cloud Computing
+7,"english, learn, write, blog, python",1,2022-02-11 04:48:00.000,AI Energy Consumption,AI Energy Consumption
+12,"variable, dotenv, password, loaddotenv, python",1,2022-02-11 04:48:00.000,Python Virtual Environments,Python Virtual Environments
+13,"chain, blockchain, public, proof, blockchains",1,2022-02-11 04:48:00.000,Blockchain for Sustainability,Blockchain for Sustainability
+14,"energy, level, bar, work, situation",1,2022-02-11 04:48:00.000,Energy Boosters,Energy Boosters
+15,"laravel, date, add, carbon, format",8,2022-02-11 04:48:00.000,Date manipulation in Laravel using Carbon,Date manipulation in Laravel using Carbon
+17,"phoebe, money, tobie, estelle, open",1,2022-02-11 04:48:00.000,Tech for Good,Tech for Good
+19,"api, squake, performant, mobility, certified",1,2022-02-11 04:48:00.000,Carbon Footprint Management,Carbon Footprint Management
+23,"iot, management, city, sensor, technology",1,2022-02-11 04:48:00.000,Smart City Innovations for Sustainable Resource Management,Smart City Innovations for Sustainable Resource Management
+-1,"innodb, engine, blackhole, aurora, data",1,2022-07-21 01:12:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"environment, cypress, file, command, variable",2,2022-07-21 01:12:00.000,Environmental Management,Environmental Management
+1,"carbon, software, xrpl, emission, gb",7,2022-07-21 01:12:00.000,Software Sustainability,Software Sustainability
+2,"floss, open, source, ecosystem, social",1,2022-07-21 01:12:00.000,Open Source Funding,Open Source Funding
+4,"mode, green, design, browser, web",4,2022-07-21 01:12:00.000,Sustainable Web Design,Sustainable Web Design
+5,"graphql, react, feeling, work, client",3,2022-07-21 01:12:00.000,Workplace dynamics,Workplace dynamics
+6,"aws, cloud, lambda, guardian, center",3,2022-07-21 01:12:00.000,Green Cloud Computing,Green Cloud Computing
+9,"humidity, rate, evaporation, sensor, water",1,2022-07-21 01:12:00.000,Energy Efficiency and Monitoring,Energy Efficiency and Monitoring
+11,"decodes, finch, incentivize, brand, consumer",1,2022-07-21 01:12:00.000,Sustainable Business Strategies for a Changing Climate,Sustainable Business Strategies for a Changing Climate
+14,"time, br, teen, day, energy",2,2022-07-21 01:12:00.000,Energy Boosters,Energy Boosters
+19,"derive, ghg, accounting, harmful, accurately",1,2022-07-21 01:12:00.000,Carbon Footprint Management,Carbon Footprint Management
+20,"filter, query, nx, method, logic",3,2022-07-21 01:12:00.000,Early Earthquake Warning Systems,Early Earthquake Warning Systems
+0,"azure, environment, show, file, ml",4,2022-12-27 21:36:00.000,Environmental Management,Environmental Management
+1,"printer, server, software, coe, device",2,2022-12-27 21:36:00.000,Software Sustainability,Software Sustainability
+2,"token, contract, hardhat, exchange, dex",1,2022-12-27 21:36:00.000,Open Source Funding,Open Source Funding
+3,"capacitor, supercapacitor, layer, electrode, charge",1,2022-12-27 21:36:00.000,Renewable Energy Market,Renewable Energy Market
+4,"website, page, asset, web, content",1,2022-12-27 21:36:00.000,Sustainable Web Design,Sustainable Web Design
+5,"object, frontend, clone, dup, copy",2,2022-12-27 21:36:00.000,Workplace dynamics,Workplace dynamics
+6,"cloud, aws, data, energy, compute",4,2022-12-27 21:36:00.000,Green Cloud Computing,Green Cloud Computing
+11,"design, thinking, product, value, business",1,2022-12-27 21:36:00.000,Sustainable Business Strategies for a Changing Climate,Sustainable Business Strategies for a Changing Climate
+12,"environment, virtual, python, variable, poetry",2,2022-12-27 21:36:00.000,Python Virtual Environments,Python Virtual Environments
+15,"character, date, hidden, issue, laravel",1,2022-12-27 21:36:00.000,Date manipulation in Laravel using Carbon,Date manipulation in Laravel using Carbon
+19,"boavizta, carbon, instance, france, scanner",1,2022-12-27 21:36:00.000,Carbon Footprint Management,Carbon Footprint Management
+23,"city, smart, iot, strong, li",1,2022-12-27 21:36:00.000,Smart City Innovations for Sustainable Resource Management,Smart City Innovations for Sustainable Resource Management
+-1,"population, carbonawarebatch, aws, climate, carbon",4,2023-06-05 18:00:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"snippet, file, config, code, app",3,2023-06-05 18:00:00.000,Environmental Management,Environmental Management
+1,"device, tech, environmental, responsible, impact",2,2023-06-05 18:00:00.000,Software Sustainability,Software Sustainability
+4,"website, web, user, image, font",4,2023-06-05 18:00:00.000,Sustainable Web Design,Sustainable Web Design
+5,"team, scaling, velocity, talent, engineering",2,2023-06-05 18:00:00.000,Workplace dynamics,Workplace dynamics
+6,"cloud, engine, earth, data, carbon",3,2023-06-05 18:00:00.000,Green Cloud Computing,Green Cloud Computing
+7,"ai, code, content, generated, generate",1,2023-06-05 18:00:00.000,AI Energy Consumption,AI Energy Consumption
+10,"esg, entity, investor, report, reporting",1,2023-06-05 18:00:00.000,ESG Reporting and Disclosure,ESG Reporting and Disclosure
+11,"biodiversity, risk, business, loss, conservation",1,2023-06-05 18:00:00.000,Sustainable Business Strategies for a Changing Climate,Sustainable Business Strategies for a Changing Climate
+12,"python, virtual, environment, venv, dependency",2,2023-06-05 18:00:00.000,Python Virtual Environments,Python Virtual Environments
+13,"etuktuk, tuk, blockchain, developing, bnb",2,2023-06-05 18:00:00.000,Blockchain for Sustainability,Blockchain for Sustainability
+17,"aws, tree, button, function, iot",2,2023-06-05 18:00:00.000,Tech for Good,Tech for Good
+19,"carbon, consumer, intensity, task, carbonawaresdk",1,2023-06-05 18:00:00.000,Carbon Footprint Management,Carbon Footprint Management
+20,"go, cef, event, function, web",1,2023-06-05 18:00:00.000,Early Earthquake Warning Systems,Early Earthquake Warning Systems
+21,"carbon, software, energy, server, reduce",3,2023-06-05 18:00:00.000,Green Software Development,Green Software Development
+-1,"file, lyzr, streamlit, data, analysis",2,2023-11-12 14:24:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"webpack, 00, php, file, add",2,2023-11-12 14:24:00.000,Environmental Management,Environmental Management
+1,"duo, android, software, device, carton",4,2023-11-12 14:24:00.000,Software Sustainability,Software Sustainability
+3,"battery, energy, capacitor, solar, panel",5,2023-11-12 14:24:00.000,Renewable Energy Market,Renewable Energy Market
+4,"website, web, image, device, browser",3,2023-11-12 14:24:00.000,Sustainable Web Design,Sustainable Web Design
+6,"aws, europe, cloud, sustainability, footprint",1,2023-11-12 14:24:00.000,Green Cloud Computing,Green Cloud Computing
+9,"home, market, energy, octopus, assistant",3,2023-11-12 14:24:00.000,Energy Efficiency and Monitoring,Energy Efficiency and Monitoring
+11,"business, energy, renewable, green, climate",2,2023-11-12 14:24:00.000,Sustainable Business Strategies for a Changing Climate,Sustainable Business Strategies for a Changing Climate
+13,"blockchain, href, nbspp, energy, carbon",2,2023-11-12 14:24:00.000,Blockchain for Sustainability,Blockchain for Sustainability
+14,"energy, level, booster, food, exercise",1,2023-11-12 14:24:00.000,Energy Boosters,Energy Boosters
+20,"filter, software, use, run, query",1,2023-11-12 14:24:00.000,Early Earthquake Warning Systems,Early Earthquake Warning Systems
+-1,"quantum, 000, paris, query, computer",4,2024-04-20 10:48:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"variable, sail, environment, laravel, command",4,2024-04-20 10:48:00.000,Environmental Management,Environmental Management
+1,"email, software, carbon, energy, emission",5,2024-04-20 10:48:00.000,Software Sustainability,Software Sustainability
+2,"reward, project, open, source, issue",1,2024-04-20 10:48:00.000,Open Source Funding,Open Source Funding
+3,"energy, solar, power, battery, wind",16,2024-04-20 10:48:00.000,Renewable Energy Market,Renewable Energy Market
+4,"website, web, carbon, page, green",5,2024-04-20 10:48:00.000,Sustainable Web Design,Sustainable Web Design
+6,"center, data, energy, cooling, cloud",2,2024-04-20 10:48:00.000,Green Cloud Computing,Green Cloud Computing
+7,"model, ai, task, inference, consumption",3,2024-04-20 10:48:00.000,AI Energy Consumption,AI Energy Consumption
+9,"ba, building, energy, system, lighting",1,2024-04-20 10:48:00.000,Energy Efficiency and Monitoring,Energy Efficiency and Monitoring
+10,"esg, investor, screening, sfdr, investment",10,2024-04-20 10:48:00.000,ESG Reporting and Disclosure,ESG Reporting and Disclosure
+11,"climate, biodiversity, data, research, sg",5,2024-04-20 10:48:00.000,Sustainable Business Strategies for a Changing Climate,Sustainable Business Strategies for a Changing Climate
+12,"anaconda, environment, virtual, python, package",1,2024-04-20 10:48:00.000,Python Virtual Environments,Python Virtual Environments
+13,"credit, tokenization, carbon, blockchain, token",1,2024-04-20 10:48:00.000,Blockchain for Sustainability,Blockchain for Sustainability
+14,"piperidine, nad, bioreactors, supplement, gum",5,2024-04-20 10:48:00.000,Energy Boosters,Energy Boosters
+16,"construction, material, building, turf, waste",6,2024-04-20 10:48:00.000,Sustainable Construction Technologies,Sustainable Construction Technologies
+20,"flow, loop, action, filter, use",1,2024-04-20 10:48:00.000,Early Earthquake Warning Systems,Early Earthquake Warning Systems
+21,"devops, pipeline, sustainability, cloud, carbon",1,2024-04-20 10:48:00.000,Green Software Development,Green Software Development
+-1,"ai, kernel, climate, linux, system",3,2024-09-27 07:12:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"variable, environment, env, vite, file",5,2024-09-27 07:12:00.000,Environmental Management,Environmental Management
+1,"software, sustainability, ul, duo, market",7,2024-09-27 07:12:00.000,Software Sustainability,Software Sustainability
+2,"open, source, project, funding, financial",23,2024-09-27 07:12:00.000,Open Source Funding,Open Source Funding
+3,"solar, battery, energy, generator, power",5,2024-09-27 07:12:00.000,Renewable Energy Market,Renewable Energy Market
+4,"website, web, site, image, load",6,2024-09-27 07:12:00.000,Sustainable Web Design,Sustainable Web Design
+5,"lying, eager, teaching, donating, hey",1,2024-09-27 07:12:00.000,Workplace dynamics,Workplace dynamics
+6,"cloud, computing, energy, data, center",4,2024-09-27 07:12:00.000,Green Cloud Computing,Green Cloud Computing
+7,"ai, human, watch, technology, being",3,2024-09-27 07:12:00.000,AI Energy Consumption,AI Energy Consumption
+8,"line, data, has, class, ai",2,2024-09-27 07:12:00.000,Energy Innovation and AI,Energy Innovation and AI
+9,"home, smart, billing, iot, energy",3,2024-09-27 07:12:00.000,Energy Efficiency and Monitoring,Energy Efficiency and Monitoring
+10,"esg, reporting, investor, data, risk",6,2024-09-27 07:12:00.000,ESG Reporting and Disclosure,ESG Reporting and Disclosure
+11,"tbl, business, company, environmental, sustainable",4,2024-09-27 07:12:00.000,Sustainable Business Strategies for a Changing Climate,Sustainable Business Strategies for a Changing Climate
+12,"package, python, environment, url, django",2,2024-09-27 07:12:00.000,Python Virtual Environments,Python Virtual Environments
+14,"myherb, wellness, health, individual, sustainable",1,2024-09-27 07:12:00.000,Energy Boosters,Energy Boosters
+15,"date, laravel, regex, return, validation",1,2024-09-27 07:12:00.000,Date manipulation in Laravel using Carbon,Date manipulation in Laravel using Carbon
+16,"building, certification, water, certified, construction",2,2024-09-27 07:12:00.000,Sustainable Construction Technologies,Sustainable Construction Technologies
+19,"carbon, li, management, strong, ul",3,2024-09-27 07:12:00.000,Carbon Footprint Management,Carbon Footprint Management
+20,"code, query, efficient, filter, use",1,2024-09-27 07:12:00.000,Early Earthquake Warning Systems,Early Earthquake Warning Systems
+21,"software, reduce, consumption, energy, resource",2,2024-09-27 07:12:00.000,Green Software Development,Green Software Development
+23,"iot, management, resource, environmental, ai",1,2024-09-27 07:12:00.000,Smart City Innovations for Sustainable Resource Management,Smart City Innovations for Sustainable Resource Management
+-1,"led, fiber, display, screen, carbon",13,2025-03-06 03:36:00.000,Sustainable Display Technologies,Sustainable Display Technologies
+0,"environment, variable, type, validation, file",1,2025-03-06 03:36:00.000,Environmental Management,Environmental Management
+1,"software, licensing, sap, sustainable, sustainability",13,2025-03-06 03:36:00.000,Software Sustainability,Software Sustainability
+2,"open, source, funding, project, community",13,2025-03-06 03:36:00.000,Open Source Funding,Open Source Funding
+3,"battery, energy, solar, renewable, wind",10,2025-03-06 03:36:00.000,Renewable Energy Market,Renewable Energy Market
+4,"comic, website, kingcomix, web, image",3,2025-03-06 03:36:00.000,Sustainable Web Design,Sustainable Web Design
+5,"uat, sodiceram, team, erp, environment",8,2025-03-06 03:36:00.000,Workplace dynamics,Workplace dynamics
+6,"cloud, data, business, energy, carbon",5,2025-03-06 03:36:00.000,Green Cloud Computing,Green Cloud Computing
+7,"ai, model, al, et, system",9,2025-03-06 03:36:00.000,AI Energy Consumption,AI Energy Consumption
+8,"ai, maintenance, line, energy, hydrogen",18,2025-03-06 03:36:00.000,Energy Innovation and AI,Energy Innovation and AI
+9,"energy, monitoring, meter, usage, system",10,2025-03-06 03:36:00.000,Energy Efficiency and Monitoring,Energy Efficiency and Monitoring
+10,"esg, india, epr, pro, pwm",1,2025-03-06 03:36:00.000,ESG Reporting and Disclosure,ESG Reporting and Disclosure
+11,"emission, carbon, reducing, change, reduce",1,2025-03-06 03:36:00.000,Sustainable Business Strategies for a Changing Climate,Sustainable Business Strategies for a Changing Climate
+13,"blockchain, energy, chain, siemens, fashion",5,2025-03-06 03:36:00.000,Blockchain for Sustainability,Blockchain for Sustainability
+14,"organic, vitality, payment, rest, caffeine",2,2025-03-06 03:36:00.000,Energy Boosters,Energy Boosters
+15,"laravel, date, timezones, calendar, timezone",1,2025-03-06 03:36:00.000,Date manipulation in Laravel using Carbon,Date manipulation in Laravel using Carbon
+16,"building, construction, design, sustainable, estate",3,2025-03-06 03:36:00.000,Sustainable Construction Technologies,Sustainable Construction Technologies
+17,"im, connection, kindredcircl, moderation, social",1,2025-03-06 03:36:00.000,Tech for Good,Tech for Good
+18,"analytics, data, fishery, ai, waste",9,2025-03-06 03:36:00.000,Sustainable Agriculture and Food Technology,Sustainable Agriculture and Food Technology
+19,"carbon, emission, scope, sustaininsight, tracking",1,2025-03-06 03:36:00.000,Carbon Footprint Management,Carbon Footprint Management
+22,"solar, unlimited, mon, timing, 617",6,2025-03-06 03:36:00.000,Solar Energy Solutions,Solar Energy Solutions
+23,"iot, sensor, waste, environmental, smart",2,2025-03-06 03:36:00.000,Smart City Innovations for Sustainable Resource Management,Smart City Innovations for Sustainable Resource Management
