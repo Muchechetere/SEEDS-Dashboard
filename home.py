@@ -97,7 +97,7 @@ def show():
     What you see here is a **3D Topic Map**:  
     - **Each Bubble** represents a **blog post**, and the clustering (closeness) of the bubbles illustrates their relationship within a Topic.  
     - **Position** in 3D space is determined by reducing high-dimensional text data down to three components using UMAP.  
-    - **Size** reflects how prominent that topic is in the dataset.  
+    - **Size** reflects how prominent that topic is in the dataset,based of the number of blogs associated with the Topic.  
     - **Color** represents different topic groups.  
 
     You can **rotate, zoom, and hover** to explore which topics are close together and discover  the blogs associated.
@@ -186,9 +186,10 @@ def show():
         hover_data={"label": True, "TopKeywords": True, "Topic_ID": True},
         color_discrete_map=cmap,
         title="🌿 3D Topic Map from Keyword Weights",
-        labels={"label": "Topic", "size": "Number of Blogs Associated"}
+        labels={"label": "Topic"}
     )
     fig.update_traces(marker=dict(line=dict(width=0.5, color="black")))
     fig.update_layout(showlegend=True, margin=dict(l=0, r=0, b=0, t=40), height=640)
     st.plotly_chart(fig, use_container_width=True)
+
 
