@@ -186,8 +186,9 @@ def show():
         hover_data={"label": True, "TopKeywords": True, "Topic_ID": True},
         color_discrete_map=cmap,
         title="🌿 3D Topic Map from Keyword Weights",
-        labels={"label": "Topic"}
+        labels={"label": "Topic", "size": "Number of Blogs Associated"}
     )
     fig.update_traces(marker=dict(line=dict(width=0.5, color="black")))
     fig.update_layout(showlegend=True, margin=dict(l=0, r=0, b=0, t=40), height=640)
     st.plotly_chart(fig, use_container_width=True)
+
