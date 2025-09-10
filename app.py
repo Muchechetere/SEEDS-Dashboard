@@ -26,19 +26,19 @@ with st.sidebar:
     sidebar_logo() 
 
     active = st.session_state.page
-    if st.button("🏠  Home", key="nav-home",
+    if st.button("Home", key="nav-home",
                  type=("primary" if active == "Home" else "secondary"),
                  use_container_width=True):
         st.session_state.page = "Home"
         st.rerun()
 
-    if st.button("📚  Topics", key="nav-topics",
+    if st.button("Topics Explorer", key="nav-topics",
                  type=("primary" if active == "Topics" else "secondary"),
                  use_container_width=True):
         st.session_state.page = "Topics"
         st.rerun()
 
-    if st.button("📖  User Guide", key="nav-guide",
+    if st.button("User Guide", key="nav-guide",
                  type=("primary" if active == "User Guide" else "secondary"),
                  use_container_width=True):
         st.session_state.page = "User Guide"
@@ -52,3 +52,4 @@ elif page == "Topics":
     topics.show()
 elif page == "User Guide":
     user_guide.show()
+
