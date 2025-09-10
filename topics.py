@@ -47,7 +47,7 @@ def inject_css(path: str = "style.css") -> None:
 
 def show():
     inject_css() 
-    st.markdown("<h1>🌱 GSE Topics Explorer</h1>", unsafe_allow_html=True)
+    st.markdown("<h1>SEEDS Topics Explorer</h1>", unsafe_allow_html=True)
     st.info("Filter by topic and year to explore insights, trends, and key voices in the world of Green Software Engineering.", icon="ℹ️")
 
     # ---------------- Filters ----------------
@@ -268,4 +268,5 @@ def show():
     """
 
     st.markdown(table_html, unsafe_allow_html=True)
+
 
