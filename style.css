@@ -152,3 +152,50 @@
   border-bottom: 1px solid #e4f1e9; /* subtle separator; remove if you don't want a line */
 }
 
+/* Center align navigation button text */
+.stButton button {
+    text-align: center !important;
+    justify-content: center !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+/* Add some padding for better appearance */
+.stButton button p {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Green hover effect for buttons */
+.stButton button:hover {
+    background-color: #1b8c3f !important;
+    border-color: #1b8c3f !important;
+    color: white !important;
+}
+
+/* Green headers */
+h1 {
+    color: #1b8c3f !important;
+}
+
+/* Update active button state to use consistent green */
+button[kind="primary"] {
+    background-color: #1b8c3f !important;
+    border-color: #1b8c3f !important;
+    color: white !important;
+}
+
+[data-testid="baseButton-primary"] {
+    background-color: #1b8c3f !important;
+    border-color: #1b8c3f !important;
+    color: white !important;
+}
+
+/* Ensure hover state matches */
+button[kind="primary"]:hover,
+[data-testid="baseButton-primary"]:hover {
+    background-color: #167f38 !important; /* slightly darker shade for hover */
+    border-color: #167f38 !important;
+    color: white !important;
+}
+
