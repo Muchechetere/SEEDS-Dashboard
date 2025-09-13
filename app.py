@@ -1,9 +1,17 @@
 import streamlit as st
-import home, topics,user_guide
+import home, topics, user_guide
 import base64
 from pathlib import Path
 
-st.set_page_config(page_title="Dashboard", layout="wide", initial_sidebar_state="expanded")
+# Convert leaf icon to base64 for favicon
+leaf_icon = base64.b64encode(Path("seeds_leaf.png").read_bytes()).decode()
+
+st.set_page_config(
+    page_title="SEEDS Dashboard", 
+    page_icon=f"data:image/png;base64,{leaf_icon}",
+    layout="wide", 
+    initial_sidebar_state="expanded"
+)
 
 def inject_css(path="style.css"):
     st.markdown(f"<style>{Path(path).read_text(encoding='utf-8')}</style>", unsafe_allow_html=True)
