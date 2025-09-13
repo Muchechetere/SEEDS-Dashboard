@@ -88,7 +88,7 @@ def show():
     **Welcome to the SEEDS (Sustainable, Efficient, and Eco-Friendly Development Strategies) Dashboard!**  
     This project explores *Green Software Engineering* trends by analyzing a wide range of developer-written blog posts  
 
-    By processing this data using **Topic Modeling** and advanced dimensionality-reduction techniques,  
+    By processing this data using BERTopic ,  
     we can uncover patterns in how GSE topics are discussed in software development.
     """)
 
@@ -104,7 +104,7 @@ def show():
     """)
 
     st.markdown("""
-    > For a deeper dive into specific topics, head over to the **Topics** section using the navigation bar.
+    > For a deeper dive into specific topics, head over to the **Topics Explorer** section using the navigation bar.
     """)
 
     # --- 1) Preferred path: precomputed positions ---

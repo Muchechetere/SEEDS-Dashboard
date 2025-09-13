@@ -40,15 +40,23 @@ with open("link.png", "rb") as image_file:
     encoded_link_icon = base64.b64encode(image_file.read()).decode()
 link_icon_html = f'<img src="data:image/png;base64,{encoded_link_icon}" alt="Link" width="16" style="vertical-align:-3px;">'
 
+# Encode seeds_leaf.png as base64 for inline HTML display
+with open("seeds_leaf.png", "rb") as img_file:
+    encoded_leaf_icon = base64.b64encode(img_file.read()).decode()
+leaf_icon_html = f'<img src="data:image/png;base64,{encoded_leaf_icon}" alt="Leaf" width="38" style="vertical-align:-10px; margin-right:10px;">'
+
 
 def inject_css(path: str = "style.css") -> None:
     css = Path(path).read_text(encoding="utf-8")
     st.markdown(f"<style>{css}</style>", unsafe_allow_html=True)
 
 def show():
-    inject_css() 
-    st.markdown("<h1>SEEDS Topics Explorer</h1>", unsafe_allow_html=True)
-    st.info("Filter by topic and year to explore insights, trends, and key voices in the world of Green Software Engineering.", icon="ℹ️")
+    inject_css()
+    st.markdown(
+        f"<h1>{leaf_icon_html}SEEDS Topics Explorer</h1>",
+        unsafe_allow_html=True
+    )
+    st.info("Filter by topic and year to explore insights, trends, and key voices in the world of Green Software Engineering.")
 
     # ---------------- Filters ----------------
     topic_label_list_for_selectbox = list(topic_labels_dict.values())
@@ -194,7 +202,7 @@ def show():
 
 
     # --------------- Row 2 (Line) ---------------
-    st.markdown("<h3 class='section-title'>📈 Topic Growth Over Time</h3>", unsafe_allow_html=True)
+    st.markdown("<h3 class='section-title'>Topic Growth Over Time</h3>", unsafe_allow_html=True)
     if not selected_topics_over_time_df.empty:
         selected_topics_over_time_df['Topic_Label'] = selected_topics_over_time_df['Topic'].map(
             lambda x: topic_labels_dict.get(str(x), str(x))
